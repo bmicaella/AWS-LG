@@ -1,4 +1,4 @@
-# Meu App Flask com PostgreSQL
+# App Flask com PostgreSQL - Infraestrutura na Nuvem com AWS - IFF 2024
 
 Este projeto é uma aplicação Flask simples que se conecta a um banco de dados PostgreSQL e permite operações CRUD para a entidade `User`.
 
@@ -26,5 +26,5 @@ Este projeto é uma aplicação Flask simples que se conecta a um banco de dados
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/meu_app.git
-   cd meu_app
+   git clone https://github.com/bmicaella/AWS-LG.git
+   cd AWS-LG
